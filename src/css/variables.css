@@ -1,0 +1,7 @@
+:root{
+    --background: hsl(257, 40%, 49%);
+    --highlights: hsl(300, 69%, 71%);
+
+    --headings-font:'Poppins';
+    --body-font:'Open-sans';
+}
